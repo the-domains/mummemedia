@@ -1,0 +1,28 @@
+name: Mummemedia
+favicon: null
+layout_spectrum: 0.6447497142944485
+typography_spectrum: 0.761623029364273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04062173422425985
+  lightness: 0.5682477920781821
+  saturation: 0.3297875835560262
+  rhythmicContrast: 0.9626078135333955
+purpose: []
