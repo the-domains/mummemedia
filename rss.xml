@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Just my experience...]]></title>
+        <description><![CDATA[Just my experience...]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 04:15:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VistaPix Media Review]]></title>
+            <description><![CDATA[<article><h1>VistaPix Media Review</h1><p>I want to start this review with a little background in order to put into perspective how I came to searching for a photo scanning service.</p></article>]]></description>
+            <link>undefinedvistapix-media-review/index.html</link>
+            <guid isPermaLink="false">b2eab612-60d9-4df6-95f3-83b31b49e1d8</guid>
+            <pubDate>Sat, 26 Mar 2016 04:15:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
