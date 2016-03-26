@@ -1,7 +1,7 @@
 name: Mummemedia
 favicon: null
-layout_spectrum: 0.6447497142944485
-typography_spectrum: 0.761623029364273
+layout_spectrum: 1
+typography_spectrum: 0.46625
 title: Just my experience...
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.04062173422425985
-  lightness: 0.5682477920781821
-  saturation: 0.3297875835560262
+    - '#616163'
+    - '#ffffff'
+    - '#8dc63f'
+    - '#bbbdbe'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0.9626078135333955
 purpose: []
