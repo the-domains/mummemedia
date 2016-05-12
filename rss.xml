@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Just my experience...]]></title>
         <description><![CDATA[Just my experience...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mummemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 04:15:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 05:22:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mummemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[VistaPix Media Review]]></title>
-            <description><![CDATA[<article><h1>VistaPix Media Review</h1><p>I want to start this review with a little background in order to put into perspective how I came to searching for a photo scanning service.</p></article>]]></description>
-            <link>undefinedvistapix-media-review/index.html</link>
+            <description><![CDATA[<p>I want to start this review with a little background in order to put into perspective how I came to searching for a photo scanning service.</p>]]></description>
+            <link>https://thegrid.ai/mummemedia/vistapix-media-review/index.html</link>
             <guid isPermaLink="false">b2eab612-60d9-4df6-95f3-83b31b49e1d8</guid>
             <pubDate>Sat, 26 Mar 2016 04:15:47 GMT</pubDate>
         </item>
