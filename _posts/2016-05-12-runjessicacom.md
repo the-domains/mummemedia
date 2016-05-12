@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.runjessica.com/'
 title: RunJessica.com
-datePublished: '2016-05-12T05:21:52.989Z'
-dateModified: '2016-05-12T05:21:24.699Z'
+datePublished: '2016-05-12T05:21:48.146Z'
+dateModified: '2016-05-12T05:21:48.075Z'
 starred: false
 sourcePath: _posts/2016-05-12-runjessicacom.md
 inFeed: true
